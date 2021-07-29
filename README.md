@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/ceaser0389">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ceaser0389&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceaser0389&layout=compact&langs_count=16&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceaser0389&layout=compact&langs_count=7&theme=dark"/>
+ 
 </div>
 
 
@@ -42,8 +42,9 @@ Here are some ideas to get you started:
   <a ref="https://ceaser.alves03@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white " target="_blank"></a> 
   <a ref="https://César Alves#9193" target="_blank"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a ref="https://www.facebook.com/cesar.alves.566148" target="_blank">  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
-  
-  
+  <a ref="https://api.telegram.com/send?phone=5515996314284&text=Olá,%20meu%20amigo!." target="_blank">  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
+  <a ref=" https://api.whatsapp.com/send?phone=5511987654321&text=Olá,%20meu%20amigo!" target="_blank">  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+ <a ref="https://www.instagram.com/cesaralves03/" target="_blank">  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
   
  </div>
