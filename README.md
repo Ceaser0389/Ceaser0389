@@ -6,7 +6,7 @@ Socrates
 
 <!--
 **Ceaser0389/Ceaser0389** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+  ![Snake animation](https://github.com/Ceaser0389/Ceaser0389/blob/output/github-contribution-grid-snake.svg)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently studying  C# and ...
@@ -50,7 +50,7 @@ Here are some ideas to get you started:
   <a ref=" https://api.whatsapp.com/send?phone=5511987654321&text=Olá,%20meu%20amigo!" target="_blank">  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
  <a ref="https://www.instagram.com/cesaralves03/" target="_blank">  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 
-    ![Snake animation](https://github.com/Ceaser0389/Ceaser0389/blob/output/github-contribution-grid-snake.svg)
+  
  
   
   </div>
