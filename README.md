@@ -49,7 +49,7 @@ Here are some ideas to get you started:
   <a ref="https://api.telegram.com/send?phone=5515996314284&text=Olá,%20meu%20amigo!." target="_blank">  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
   <a ref=" https://api.whatsapp.com/send?phone=5511987654321&text=Olá,%20meu%20amigo!" target="_blank">  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
  <a ref="https://www.instagram.com/cesaralves03/" target="_blank">  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
   
  </div>
   
