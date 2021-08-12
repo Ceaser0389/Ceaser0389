@@ -1,14 +1,4 @@
 
-<h1> Olá , Eu sou  o César Alves !!! <h1>
-<h3>  🎓 Análise De Sistemas </h3>
-
- <h3> 🌱 Estudando Java , javascript, HTML e CSS  </h3>
- <h3> 🔊 Linguagens: Inglês Avançado, Espanhol Intermediario </h3>
- 
-
-  "Know yourself, become aware of your ignorance and you will be wise." 
-Socrates
-
 <!--
 **Ceaser0389/Ceaser0389** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  
@@ -21,8 +11,19 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
 -->
 
+
+<h1> Olá , Eu sou  o César Alves !!! </h1>
+
+<h5> "Know yourself, become aware of your ignorance and you will be wise."  Socrates  </h5>
+  
+ <h3>  🎓 Análise De Sistemas </h3>
+ <h3> 🌱 Estudando Java , javascript, HTML e CSS  </h3>
+ <h3> 🔊 Linguagens: Inglês Avançado, Espanhol Intermediario </h3>
+
+ 
  <div>
   <a href="https://github.com/ceaser0389">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ceaser0389&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -39,7 +40,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Cesar-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Cesar-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Cesar-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  
+   
 
   ##
  
