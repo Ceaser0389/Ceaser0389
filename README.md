@@ -1,5 +1,10 @@
-### Hi there 👋
 
+<h1> Olá , Eu sou  o César Alves !!! <h1>
+
+  🎓 Análise De Sistemas 
+  🌱 Estudando Java , javascript, HTML e CSS
+  🔊 Linguagens: Inglês Avançado, Espanhol Intermediario
+ 
 
   "Know yourself, become aware of your ignorance and you will be wise."
 Socrates
@@ -8,7 +13,6 @@ Socrates
 **Ceaser0389/Ceaser0389** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  
 Here are some ideas to get you started:
-
 - 🔭 I’m currently studying  C# and ...
 - 🌱 I’m currently learning  Java and js...
 - 👯 I’m looking to collaborate on ...
