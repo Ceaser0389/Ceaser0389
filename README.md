@@ -1,12 +1,12 @@
 
 <h1> Olá , Eu sou  o César Alves !!! <h1>
+<h3>  🎓 Análise De Sistemas </h3>
 
-  🎓 Análise De Sistemas 
-  🌱 Estudando Java , javascript, HTML e CSS
-  🔊 Linguagens: Inglês Avançado, Espanhol Intermediario
+ <h3> 🌱 Estudando Java , javascript, HTML e CSS  </h3>
+ <h3> 🔊 Linguagens: Inglês Avançado, Espanhol Intermediario </h3>
  
 
-  "Know yourself, become aware of your ignorance and you will be wise."
+  "Know yourself, become aware of your ignorance and you will be wise." 
 Socrates
 
 <!--
