@@ -45,7 +45,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Cesar-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Cesar-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Cesar-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-   
+   <img align="center" alt="Cesar-MySql" height="30" width="40" src="file:///E:/DOWNLOADS/Google%20Chrome/devicon-master/icons/mysql/mysql-original.svg">
 
   ##
  
