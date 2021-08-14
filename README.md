@@ -10,6 +10,11 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
+
+ <a href="https://ceaser.alves03@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white " target="_blank"></a> 
+ <a href="https://api.telegram.com/send?phone=5515996314284&text=Olá,%20meu%20amigo!." target="_blank">  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
+  <a href=" https://api.whatsapp.com/send?phone=5511987654321&text=Olá,%20meu%20amigo!" target="_blank">  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+
 - ⚡ Fun fact: ...
 <img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
 -->
@@ -48,11 +53,9 @@ Here are some ideas to get you started:
 
   <a href="https://www.linkedin.com/in/cesar-alves-developer/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a> 
   <a href="https://twitter.com/pe_ce03/" target="_blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
-  <a href="https://ceaser.alves03@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white " target="_blank"></a> 
   <a href="https://CesarAlves#9193" target="_blank"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.facebook.com/cesar.alves.566148/" target="_blank">  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
-  <a href="https://api.telegram.com/send?phone=5515996314284&text=Olá,%20meu%20amigo!." target="_blank">  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
-  <a href=" https://api.whatsapp.com/send?phone=5511987654321&text=Olá,%20meu%20amigo!" target="_blank">  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+ 
  <a href="https://www.instagram.com/cesaralves03/" target="_blank">  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 
    ![Snake animation](https://github.com/Ceaser0389/Ceaser0389/blob/output/github-contribution-grid-snake.svg)
