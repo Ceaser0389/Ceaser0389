@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 
    ![Snake animation](https://github.com/Ceaser0389/Ceaser0389/blob/output/github-contribution-grid-snake.svg)
  
-  
+   https://discord.com/channels/@me/907800802947649566/907800884291989536
   </div>
  
   
