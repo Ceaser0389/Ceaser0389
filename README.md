@@ -60,10 +60,12 @@ Here are some ideas to get you started:
    <a href="https://www.facebook.com/cesar.alves.566148/" target="_blank">  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
    <a href="https://api.whatsapp.com/send?=pt_BR&phone=5515996314284" target="_blank">  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
 
-
+<a href="https://discord.com/channels/@me/907800802947649566" target="_blank"><img src="https://media.discordapp.net/attachments/907800802947649566/907800884472332338/download20211102221018.png?width=376&height=376" target="_blank">
+ 
+ 
    ![Snake animation](https://github.com/Ceaser0389/Ceaser0389/blob/output/github-contribution-grid-snake.svg)
  
-   https://discord.com/channels/@me/907800802947649566/907800884291989536
+  
   </div>
  
   
