@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   
  <h3>  🎓 Análise de Sistemas UNIP Sorocaba </h3>
  <h3> 🌱 Estudando Java ,C# , javascript, HTML e CSS  </h3>
- <h3> 🔊 Idiomas: Inglês Avançado, Espanhol Intermediario </h3>
+ <h3> 🔊 Idiomas: Inglês Avançado, Espanhol Intermediário </h3>
 
  
  <div>
