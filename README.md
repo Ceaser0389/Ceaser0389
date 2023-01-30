@@ -27,14 +27,13 @@ Here are some ideas to get you started:
   <a href="https://github.com/ceaser0389">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ceaser0389&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceaser0389&layout=compact&langs_count=16&theme=dark"/>
- 
+
 </div>
 
 
 
 - ⚡ Fun fact: ...
 <img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
--->
 
 
 <h1> Olá , Eu sou  o César Alves !!! </h1>
