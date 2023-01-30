@@ -22,14 +22,14 @@ Here are some ideas to get you started:
 <a href="https://discord.com/channels/@me" target="_blank"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 
 
-///
+
  <div>
   <a href="https://github.com/ceaser0389">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ceaser0389&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceaser0389&layout=compact&langs_count=16&theme=dark"/>
  
 </div>
-///
+
 
 
 - ⚡ Fun fact: ...
