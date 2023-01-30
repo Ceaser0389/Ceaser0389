@@ -22,14 +22,14 @@ Here are some ideas to get you started:
 <a href="https://discord.com/channels/@me" target="_blank"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 
 
-
+///
  <div>
   <a href="https://github.com/ceaser0389">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ceaser0389&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceaser0389&layout=compact&langs_count=16&theme=dark"/>
  
 </div>
-
+///
 
 
 - ⚡ Fun fact: ...
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 <h5> "Know yourself, become aware of your ignorance and you will be wise."  Socrates  </h5>
   
  <h3>  🎓 Análise de Sistemas UNIP Sorocaba </h3>
- <h3> 🌱 Estudando Java ,C# , javascript, HTML e CSS  </h3>
+ <h3> 🌱 Estudando Java , javascript, HTML e CSS  </h3>
  <h3> 🔊 Idiomas: Inglês Avançado, Espanhol Intermediário </h3>
 
  
