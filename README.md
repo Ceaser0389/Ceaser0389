@@ -23,6 +23,14 @@ Here are some ideas to get you started:
  <a href="https://www.instagram.com/cesaralves03/" target="_blank">  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 <a href="https://discord.com/channels/@me" target="_blank"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 
+
+ <div>
+  <a href="https://github.com/ceaser0389">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ceaser0389&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceaser0389&layout=compact&langs_count=16&theme=dark"/>
+
+</div>
+
 --->
 
 
@@ -37,12 +45,7 @@ Here are some ideas to get you started:
 
  
 
- <div>
-  <a href="https://github.com/ceaser0389">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ceaser0389&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceaser0389&layout=compact&langs_count=16&theme=dark"/>
 
-</div>
 
  <a href="https://discord.com/channels/@me/907800802947649566" target="_blank"><img align="right"  weigh=200 height=150 src="https://media.discordapp.net/attachments/907800802947649566/907800884472332338/download20211102221018.png?width=376&height=376" target="_blank">
  
