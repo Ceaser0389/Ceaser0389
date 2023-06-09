@@ -30,8 +30,9 @@ Here are some ideas to get you started:
 
 <h5> "Know yourself, become aware of your ignorance and you will be wise."  Socrates  </h5>
   
- <h3>  🎓 Análise de Sistemas UNIP Sorocaba </h3>
- <h3> 🌱 Estudando Java , javascript, HTML e CSS  </h3>
+ <h3>  🎓Análise de Sistemas UNIP Sorocaba </h3>
+ <h3>  🎓Ciência de Dados UNIVESP </h3>
+ <h3>  🌱Estudando Java , javascript,Python  </h3>
  <h3> 🔊 Idiomas: Inglês Avançado, Espanhol Intermediário </h3>
 
  
