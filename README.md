@@ -38,16 +38,11 @@ Here are some ideas to get you started:
 
 <h5> "Know yourself, become aware of your ignorance and you will be wise."  Socrates  </h5>
   
- <h3>  🎓Análise de Sistemas UNIP Sorocaba </h3>
- <h3>  🎓Ciência de Dados UNIVESP </h3>
+ <h3>  🎓Análise de Sistemas UNIP Sorocaba </h3>                                                   <img align="right" height="200" width="200" src="https://i.imgflip.com/65efzo.gif"  />
+ <h3>  🎓Ciência de Dados UNIVESP </h3>                         
  <h3>  🌱Estudando Java , javascript,Python  </h3>
  <h3> 🔊 Idiomas: Inglês Avançado, Espanhol Intermediário </h3>
 
- 
-
-
-
- 
  </div>
   <div style="display: inline_block"> <br>
     <img align="center" alt="Cesar-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -58,14 +53,20 @@ Here are some ideas to get you started:
     <img align="center" alt="Cesar-MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
     <img align="center" alt="Cesar-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
     <img align="center" alt="Cesar-nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <div> 
- 
-   <br>
-   <a href="https://www.linkedin.com/in/cesar-alves-developer/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a> 
-   <a href="https://twitter.com/pe_ce03/" target="_blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
-   <a href="https://www.facebook.com/cesar.alves.566148/" target="_blank">  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
-   <a href="https://api.whatsapp.com/send?=pt_BR&phone=5515996314284" target="_blank">  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+    <img align="center" alt="Cesar-docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">
+    <img align="center" alt="Cesar-intellij" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
+    <img align="center" alt="Cesar-postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+    <img align="center" alt="Cesar-spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+   <img align="center" alt="Cesar-mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
 
+   </div>
+   
+   <br>
+ <div align="left">
+ <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"/> </a>
+ <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /> </a>
+ <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
 
  
@@ -75,4 +76,21 @@ Here are some ideas to get you started:
   </div>
  
   
-  
+  <h3 align="left">🔥   My Stats :</h3>
+
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
