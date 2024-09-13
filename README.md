@@ -34,11 +34,11 @@ Here are some ideas to get you started:
 --->
 
 
-<h1> Olá , Eu sou  o César Alves !!! </h1>
+<h1> Olá , Eu sou  o César Alves !!!    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="45">&nbsp;   </h1>
 
 <h5> "Know yourself, become aware of your ignorance and you will be wise."  Socrates  </h5>
   
- <h3>  🎓Análise de Sistemas UNIP Sorocaba </h3>                                                   <img align="right" height="200" width="200" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" />
+ <h3>  🎓Análise de Sistemas UNIP Sorocaba </h3>                                                   <img align="right" height="200" width="200" src="https://user-images.githubusercontent.com/74038190/216658115-017b0125-1bba-409d-b789-c04362c0adfb.gif" />
  <h3>  🎓Ciência de Dados UNIVESP </h3>                         
  <h3>  🌱Estudando Java , javascript,Python  </h3>
  <h3> 🔊 Idiomas: Inglês Avançado, Espanhol Intermediário </h3>
@@ -83,9 +83,14 @@ Here are some ideas to get you started:
   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
+<br>
 
-
-
+<div>
+ <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> 
+<h2> Thanks for Visiting </h2>
+ 
+<h2>  Made with 💜 by César Alves </h2>
+</div>
 
 
 
